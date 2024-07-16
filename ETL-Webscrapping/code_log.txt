@@ -1,0 +1,4 @@
+2024-Jun-13-22:24:23,Extracting data
+2024-Jun-13-22:24:24,Transforming data
+2024-Jun-13-22:24:24,Loading data to .csv
+2024-Jun-13-22:24:24,Loading data to sql and running queries
